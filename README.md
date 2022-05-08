@@ -13,7 +13,8 @@ IR Sensors.
 Motors (Geared Motors): We have used two geared motors at the rear of the line follower robot. These motors provide more torque than normal motors and can be used for 
 carrying some load as well.
 
-Working;
+Working:
+
 In this project, we have designed an Arduino based Line Follower Robot. The working of the project is pretty simple: detect the black line on the surface and move along
 that line. The detailed working is explained here.
 
